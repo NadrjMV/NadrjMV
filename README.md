@@ -1,131 +1,85 @@
-# 👩🏻‍💻 Jordan Luiz
+<!-- Title -->
+<h1 align="center" title="HI! I'm Jordan">
+  Hi! I'm Jordan<br>
+  <sub>⟨⚡ Lead, Build, Deliver. ⚡⟩</sub>
+</h1>
 
-**`Desenvolvedor FullStack`**
-Me chamo Jordan, tenho 19 anos e sou de Minas Gerais. Sou dev e trabalho criando sistemas, sites e plataformas — sempre buscando fazer algo bem feito e com visão de crescimento. Toco a WebLv, onde desenvolvo projetos profissionais, e também a Jordan Cell, minha assistência técnica focada em iPhones. Tecnologia é meu dia a dia, e estou sempre construindo, testando e evoluindo meus projetos.
-
-<p align="left">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/jordanlvs/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <!-- GitHub Followers -->
-    <a href="https://github.com/NadrjMV?tab=followers">
-        <img 
-            alt="Seguidores no GitHub"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/NadrjMV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <!-- GitHub Profile Views -->
-    <a href="https://github.com/NadrjMV">
-        <img 
-            alt="Visualizações de Perfil" 
-            title="Visualizações do meu perfil" 
-            src="https://komarev.com/ghpvc/?username=Jordan1108nj&color=blue&style=for-the-badge"
-        />
-    </a>
+<!-- Socials -->
+<p align="center">
+   <kbd>
+      <a href="https://www.linkedin.com/in/jordanlvs" title="LinkedIn — Jordan Luiz">
+         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+      </a>
+      <a href="https://nadrjmv.github.io" title="Portfólio — WebLv">
+         <img src="https://img.shields.io/badge/-weblv.dev-6C63FF?style=flat&logo=Vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/NadrjMV?tab=followers" title="Followers">
+         <img src="https://img.shields.io/badge/-Followers-236ad3?style=flat&logo=github&logoColor=white" />
+      </a>
+   </kbd>
 </p>
 
----
 
-### 🤖 Linguagens e Tecnologias
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+  <p>
+    <img align="right" width="217" src="https://avatars.githubusercontent.com/u/210369170?v=4" alt="Jordan" />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<blockquote>
 
-<br/>
-<br/>
+I'm a 19-year-old FullStack Developer from Brazil — Minas Gerais, operating in three core fronts:<br>
+**SunShield** — Software Development **Supervisor**, leading internal platforms, architecture decisions, and <br>
+high-impact security solutions.<br>
+**WebLv** — building professional systems, dashboards, and end-to-end platforms.<br>
+**Jordan Cell** — iPhone-focused technical repair and premium device services.<br><br>
 
-### 📊 Estatísticas
+My mindset is straightforward: **execute with excellence, grow continuously, and build what truly matters.**<br>
+I focus on scalability, premium design, documentation quality, and solid system architecture.<br>
+Always evolving, testing, iterating, and delivering.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NadrjMV&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br&hide=stars,prs&cache_seconds=60" 
-/>
+</blockquote>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadrjMV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+----
 
+  </p>
+</details>
+
+
+<!-- Tech Stack -->
+<details>
+  <summary><b>🛠️ Tech Stack</b></summary>
+  <p>
+
+| **Category** | **Technologies** |
+| - | - |
+**Frontend** | ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+**Core** | ![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+**Mobile / Hybrid** | ![](https://img.shields.io/badge/Capacitor-119EFF?logo=capacitor&logoColor=white)
+**SaaS Tools** | ![](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white) ![](https://img.shields.io/badge/SignalWire-4C4CFF?logo=signalwire&logoColor=white) ![](https://img.shields.io/badge/Zenvia-5600FF?logoColor=white)
+**Soft Skills** | ![](https://img.shields.io/badge/Documentation-000?style=flat) ![](https://img.shields.io/badge/Team%20Management-000?style=flat) ![](https://img.shields.io/badge/Software%20Architecture-000) ![](https://img.shields.io/badge/Fast%20Learning-000)
+
+----
+
+  </p>
+</details>
+
+
+<!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+  <p>
+
+<p align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=NadrjMV&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars&cache_seconds=60" alt="Stats">
+   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadrjMV&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Languages">
 </p>
+
+<br><br><br>
+
+  </p>
+</details>
+
+</details>
+
+<p align="center"><a href="https://nadrjmv.github.io/WebLv">weblv.dev</a></p>
