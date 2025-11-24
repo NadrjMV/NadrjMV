@@ -36,7 +36,7 @@
 <details>
   <summary><b>👤 About</b></summary>
   <p>
-    <img align="right" width="217" src="https://avatars.githubusercontent.com/u/210369170?v=4" alt="Jordan" />
+    <img align="right" width="230" src="https://avatars.githubusercontent.com/u/210369170?v=4" alt="Jordan" />
 
 <blockquote>
 
