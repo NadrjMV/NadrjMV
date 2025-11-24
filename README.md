@@ -7,18 +7,30 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-      <a href="https://www.linkedin.com/in/jordanlvs" title="LinkedIn — Jordan Luiz">
-         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" />
+      <!-- LinkedIn (original bonito) -->
+      <a href="https://www.linkedin.com/in/jordanlvs/">
+         <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+         />
       </a>
+      <!-- Followers -->
+      <a href="https://github.com/NadrjMV?tab=followers" title="Follow me">
+         <img 
+            alt="Followers"
+            src="https://custom-icon-badges.demolab.com/github/followers/NadrjMV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+         />
+      </a>
+      <!-- Portfolio -->
       <a href="https://nadrjmv.github.io" title="Portfólio — WebLv">
-         <img src="https://img.shields.io/badge/-weblv.dev-6C63FF?style=flat&logo=Vercel&logoColor=white" />
-      </a>
-      <a href="https://github.com/NadrjMV?tab=followers" title="Followers">
-         <img src="https://img.shields.io/badge/-Followers-236ad3?style=flat&logo=github&logoColor=white" />
+         <img 
+            alt="weblv.dev"
+            src="https://img.shields.io/badge/weblv.dev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
+         />
       </a>
    </kbd>
 </p>
-
 
 <!-- About Section -->
 <details>
