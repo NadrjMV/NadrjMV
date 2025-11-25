@@ -95,8 +95,13 @@ Always evolving, testing, iterating, and delivering.
   <p>
 
 <p align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=NadrjMV&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars&cache_seconds=60" alt="Stats">
-   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadrjMV&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" alt="Languages">
+   <img width="400" 
+        src="https://github-readme-stats-git-master-jstrieb.vercel.app/api?username=NadrjMV&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars" 
+        alt="Stats">
+
+   <img width="300" 
+        src="https://github-readme-stats-git-master-jstrieb.vercel.app/api/top-langs/?username=NadrjMV&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+        alt="Languages">
 </p>
 
 <br><br><br>
