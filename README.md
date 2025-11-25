@@ -46,16 +46,7 @@
 
 <!-- About Section -->
 <details>
-  <summary><b>
-    <img width="14" 
-         src="data:image/svg+xml;utf8,
-         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%236C63FF'>
-           <circle cx='12' cy='8' r='5'/>
-           <path d='M4 22c0-5 4-8 8-8s8 3 8 8'/>
-         </svg>"
-    />
-    &nbsp;About
-  </b></summary>
+  <summary><b>👤 About</b></summary>
   <p>
     <img align="right" width="230" src="https://avatars.githubusercontent.com/u/210369170?v=4" alt="Jordan" />
 
@@ -81,15 +72,8 @@ Always evolving, testing, iterating, and delivering.
 
 <!-- Tech Stack -->
 <details>
-  <summary><b>
-    <img width="14" 
-         src="data:image/svg+xml;utf8,
-         <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%236C63FF'>
-            <path d='M14.7 6.3A5 5 0 005.2 8.2l3.9 3.9a3 3 0 014.2 4.2l3.9 3.9a5 5 0 00-2.9-9.5z'/>
-         </svg>"
-    />
-    &nbsp;Tech Stack
-  </b></summary>
+  <summary><b>🛠️ Tech Stack</b></summary>
+  <p>
 
 | **Category** | **Technologies** |
 | - | - |
