@@ -36,7 +36,7 @@
 <details>
   <summary><b>👤 About</b></summary>
   <p>
-    <img align="right" width="230" src="https://i.postimg.cc/Jzp1GYVm/imagem-2025-11-25-125521009.png" alt="Jordan" />
+    <img align="right" width="230" src="https://avatars.githubusercontent.com/u/210369170?v=4" alt="Jordan" />
 
 <blockquote>
 
