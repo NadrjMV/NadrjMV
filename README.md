@@ -88,21 +88,38 @@ Always evolving, testing, iterating, and delivering.
   </p>
 </details>
 
-
-<!-- Metrics -->
+<!-- METRICS SECTION -->
 <details>
-  <summary><b>📊 Metrics</b></summary>
-  <p>
+  <summary><b>📊 Metrics & Activity</b></summary>
+  <br>
+  <!-- Stats + Langs side by side -->
+  <p align="center">
+    <!-- GitHub Stats -->
+    <img 
+      width="430"
+      src="https://github-readme-stats.vercel.app/api?username=NadrjMV&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=6C63FF&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs"
+      alt="GitHub Stats"
+    />
+    <!-- Top Langs -->
+    <img 
+      width="330"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadrjMV&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=6C63FF&text_color=ffffff&langs_count=10"
+      alt="Languages"
+    />
+  </p>
 
-<p align="center">
-   <img width="400" 
-        src="https://github-readme-stats-git-master-jstrieb.vercel.app/api?username=NadrjMV&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars" 
-        alt="Stats">
+  <!-- Activity Graph -->
+  <h3 align="center">📈 Contribution Graph</h3>
+  <p align="center">
+    <img 
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=NadrjMV&bg_color=0,000000,441350&color=ffffff&line=6C63FF&point=ffeb95&area=false&hide_border=false"
+    />
+  </p>
 
-   <img width="300" 
-        src="https://github-readme-stats-git-master-jstrieb.vercel.app/api/top-langs/?username=NadrjMV&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
-        alt="Languages">
-</p>
+  <br>
+
+</details>
 
 <br><br><br>
 
